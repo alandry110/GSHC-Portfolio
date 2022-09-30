@@ -26,19 +26,19 @@ To learn more about Good Samaritan Health Center visit their website at goodsama
 * Adobe Lightroom
 
 ## Annual Impact Report 2021: 
-[View Full PDF](./assets/hrefs/Annual%20Impact%20Report%20GSHC.pdf)
+[View Full PDF](https://goodsamatlanta.org/wp-content/uploads/2022/09/Annual-Impact-Report-2021-Website.pdf)
 
 ![Good Samaritan Health Center Annual Report 2021](./assets/images/AnnualImpactReport.png)
 
 ## Quarterly Update: Spring 2022
-[View Full PDF](./assets/hrefs/Quarterly%201%20GSHC.pdf)
+[View Full PDF](https://indd.adobe.com/view/81b9696a-2a5f-441a-b811-522be996a221)
 
 ![Good Samaritan Health Center Quarterly 1 Update 2021](./assets/images/Q1Update.png)
 
 ## Quarterly Update: Summer 2022
-[View Full PDF](./assets/hrefs/Q2_Update%20GSHC.pdf)
+[View Full PDF](https://indd.adobe.com/view/857c8cd8-c5df-4ed4-b00d-3ee8aa234f06)
 
-![Good Samaritan Health Center Quarterly 2 Update 2021](./assets/images/goodsam-update-2.png)
+![Good Samaritan Health Center Quarterly 2 Update 2021](./assets/images/Q2Update.png)
 
 ## License
 © 2022 The Good Samaritan Health Center, Inc.
