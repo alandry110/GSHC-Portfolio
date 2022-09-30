@@ -3,7 +3,7 @@
 ## Description
 A collection of visually impactful updates and reports that use emotional appeal and census analytics to summarize patient, staff, and donor relationships at Good Samaritan Health Center. 
 
-These projects showcase the work that I helped to complete in my role as a Marketing and Communications Coordinator. My primary responsibilities included designing layout, collecting patient/staff photos and stories, and working directly with Chief Development Officer for editorial recommendations and final approvals.
+These projects showcase the work I helped to complete in my previous role as Marketing and Communications Coordinator. My primary responsibilities included designing layout, collecting patient/staff photos and stories, and working directly with Chief Development Officer for editorial recommendations and final approvals.
 
 All rights and materials belong to Good Samaritan Health Center.
 
